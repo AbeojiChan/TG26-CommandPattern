@@ -1,0 +1,3 @@
+[submodule "Packages/KJD"]
+	path = Packages/KJD
+	url = https://github.com/AbeojiChan/KJD-Protocol.git
